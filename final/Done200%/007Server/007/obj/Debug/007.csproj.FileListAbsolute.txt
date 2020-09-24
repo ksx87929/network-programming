@@ -1,0 +1,90 @@
+D:\user\document\大學\視窗程式設計\07\007\007\007\bin\Debug\007.exe.config
+D:\user\document\大學\視窗程式設計\07\007\007\007\bin\Debug\007.exe
+D:\user\document\大學\視窗程式設計\07\007\007\007\bin\Debug\007.pdb
+D:\user\document\大學\視窗程式設計\07\007\007\007\obj\Debug\007.csprojAssemblyReference.cache
+D:\user\document\大學\視窗程式設計\07\007\007\007\obj\Debug\_007.Form1.resources
+D:\user\document\大學\視窗程式設計\07\007\007\007\obj\Debug\_007.Properties.Resources.resources
+D:\user\document\大學\視窗程式設計\07\007\007\007\obj\Debug\007.csproj.GenerateResource.cache
+D:\user\document\大學\視窗程式設計\07\007\007\007\obj\Debug\007.csproj.CoreCompileInputs.cache
+D:\user\document\大學\視窗程式設計\07\007\007\007\obj\Debug\007.exe
+D:\user\document\大學\視窗程式設計\07\007\007\007\obj\Debug\007.pdb
+D:\Download\007\007\bin\Debug\007.exe.config
+D:\Download\007\007\bin\Debug\007.exe
+D:\Download\007\007\bin\Debug\007.pdb
+D:\Download\007\007\obj\Debug\007.csprojAssemblyReference.cache
+D:\Download\007\007\obj\Debug\_007.Form1.resources
+D:\Download\007\007\obj\Debug\_007.Properties.Resources.resources
+D:\Download\007\007\obj\Debug\007.csproj.GenerateResource.cache
+D:\Download\007\007\obj\Debug\007.csproj.CoreCompileInputs.cache
+D:\Download\007\007\obj\Debug\007.exe
+D:\Download\007\007\obj\Debug\007.pdb
+D:\視窗設計\第七周功課 007\007\007\bin\Debug\007.exe.config
+D:\視窗設計\第七周功課 007\007\007\bin\Debug\007.exe
+D:\視窗設計\第七周功課 007\007\007\bin\Debug\007.pdb
+D:\視窗設計\第七周功課 007\007\007\obj\Debug\007.csprojAssemblyReference.cache
+D:\視窗設計\第七周功課 007\007\007\obj\Debug\_007.Form1.resources
+D:\視窗設計\第七周功課 007\007\007\obj\Debug\_007.Properties.Resources.resources
+D:\視窗設計\第七周功課 007\007\007\obj\Debug\007.csproj.GenerateResource.cache
+D:\視窗設計\第七周功課 007\007\007\obj\Debug\007.csproj.CoreCompileInputs.cache
+D:\視窗設計\第七周功課 007\007\007\obj\Debug\007.exe
+D:\視窗設計\第七周功課 007\007\007\obj\Debug\007.pdb
+D:\網路程式設計\期末專題\007Server\007\bin\Debug\007.exe.config
+D:\網路程式設計\期末專題\007Server\007\bin\Debug\007.exe
+D:\網路程式設計\期末專題\007Server\007\bin\Debug\007.pdb
+D:\網路程式設計\期末專題\007Server\007\obj\Debug\007.csprojAssemblyReference.cache
+D:\網路程式設計\期末專題\007Server\007\obj\Debug\_007.Form1.resources
+D:\網路程式設計\期末專題\007Server\007\obj\Debug\_007.Properties.Resources.resources
+D:\網路程式設計\期末專題\007Server\007\obj\Debug\007.csproj.GenerateResource.cache
+D:\網路程式設計\期末專題\007Server\007\obj\Debug\007.csproj.CoreCompileInputs.cache
+D:\網路程式設計\期末專題\007Server\007\obj\Debug\007.exe
+D:\網路程式設計\期末專題\007Server\007\obj\Debug\007.pdb
+D:\網路程式設計\期末專題\Origin\007Server\007\obj\Debug\007.csprojAssemblyReference.cache
+D:\網路程式設計\期末專題\Origin\007Server\007\obj\Debug\_007.Form1.resources
+D:\網路程式設計\期末專題\Origin\007Server\007\obj\Debug\_007.Properties.Resources.resources
+D:\網路程式設計\期末專題\Origin\007Server\007\obj\Debug\007.csproj.GenerateResource.cache
+D:\網路程式設計\期末專題\Origin\007Server\007\obj\Debug\007.csproj.CoreCompileInputs.cache
+D:\網路程式設計\期末專題\Origin\007Server\007\obj\Debug\007.exe
+D:\網路程式設計\期末專題\Origin\007Server\007\obj\Debug\007.pdb
+D:\網路程式設計\期末專題\Origin\007Server\007\bin\Debug\007.exe.config
+D:\網路程式設計\期末專題\Origin\007Server\007\bin\Debug\007.exe
+D:\網路程式設計\期末專題\Origin\007Server\007\bin\Debug\007.pdb
+D:\網路程式設計\新增資料夾\Origin\007Server\007\bin\Debug\007.exe.config
+D:\網路程式設計\新增資料夾\Origin\007Server\007\bin\Debug\007.exe
+D:\網路程式設計\新增資料夾\Origin\007Server\007\bin\Debug\007.pdb
+D:\網路程式設計\新增資料夾\Origin\007Server\007\obj\Debug\007.csprojAssemblyReference.cache
+D:\網路程式設計\新增資料夾\Origin\007Server\007\obj\Debug\_007.Form1.resources
+D:\網路程式設計\新增資料夾\Origin\007Server\007\obj\Debug\_007.Properties.Resources.resources
+D:\網路程式設計\新增資料夾\Origin\007Server\007\obj\Debug\007.csproj.GenerateResource.cache
+D:\網路程式設計\新增資料夾\Origin\007Server\007\obj\Debug\007.csproj.CoreCompileInputs.cache
+D:\網路程式設計\新增資料夾\Origin\007Server\007\obj\Debug\007.exe
+D:\網路程式設計\新增資料夾\Origin\007Server\007\obj\Debug\007.pdb
+D:\網路程式設計\新增資料夾\Done\007Server\007\bin\Debug\007.exe.config
+D:\網路程式設計\新增資料夾\Done\007Server\007\bin\Debug\007.exe
+D:\網路程式設計\新增資料夾\Done\007Server\007\bin\Debug\007.pdb
+D:\網路程式設計\新增資料夾\Done\007Server\007\obj\Debug\007.csprojAssemblyReference.cache
+D:\網路程式設計\新增資料夾\Done\007Server\007\obj\Debug\_007.Form1.resources
+D:\網路程式設計\新增資料夾\Done\007Server\007\obj\Debug\_007.Properties.Resources.resources
+D:\網路程式設計\新增資料夾\Done\007Server\007\obj\Debug\007.csproj.GenerateResource.cache
+D:\網路程式設計\新增資料夾\Done\007Server\007\obj\Debug\007.csproj.CoreCompileInputs.cache
+D:\網路程式設計\新增資料夾\Done\007Server\007\obj\Debug\007.exe
+D:\網路程式設計\新增資料夾\Done\007Server\007\obj\Debug\007.pdb
+D:\網路程式設計\期末專題\Done180%\007Server\007\bin\Debug\007.exe.config
+D:\網路程式設計\期末專題\Done180%\007Server\007\bin\Debug\007.exe
+D:\網路程式設計\期末專題\Done180%\007Server\007\bin\Debug\007.pdb
+D:\網路程式設計\期末專題\Done180%\007Server\007\obj\Debug\007.csprojAssemblyReference.cache
+D:\網路程式設計\期末專題\Done180%\007Server\007\obj\Debug\_007.Form1.resources
+D:\網路程式設計\期末專題\Done180%\007Server\007\obj\Debug\_007.Properties.Resources.resources
+D:\網路程式設計\期末專題\Done180%\007Server\007\obj\Debug\007.csproj.GenerateResource.cache
+D:\網路程式設計\期末專題\Done180%\007Server\007\obj\Debug\007.csproj.CoreCompileInputs.cache
+D:\網路程式設計\期末專題\Done180%\007Server\007\obj\Debug\007.exe
+D:\網路程式設計\期末專題\Done180%\007Server\007\obj\Debug\007.pdb
+D:\網路程式設計\期末專題\Done200%\007Server\007\bin\Debug\007.exe.config
+D:\網路程式設計\期末專題\Done200%\007Server\007\bin\Debug\007.exe
+D:\網路程式設計\期末專題\Done200%\007Server\007\bin\Debug\007.pdb
+D:\網路程式設計\期末專題\Done200%\007Server\007\obj\Debug\007.csprojAssemblyReference.cache
+D:\網路程式設計\期末專題\Done200%\007Server\007\obj\Debug\_007.Form1.resources
+D:\網路程式設計\期末專題\Done200%\007Server\007\obj\Debug\_007.Properties.Resources.resources
+D:\網路程式設計\期末專題\Done200%\007Server\007\obj\Debug\007.csproj.GenerateResource.cache
+D:\網路程式設計\期末專題\Done200%\007Server\007\obj\Debug\007.csproj.CoreCompileInputs.cache
+D:\網路程式設計\期末專題\Done200%\007Server\007\obj\Debug\007.exe
+D:\網路程式設計\期末專題\Done200%\007Server\007\obj\Debug\007.pdb
